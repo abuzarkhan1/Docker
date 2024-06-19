@@ -1,1 +1,1 @@
-dockerizng applications
+dockerizng web applications
